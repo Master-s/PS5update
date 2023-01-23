@@ -1,2 +1,1 @@
-# PS5update
- PS5update
+# PS5 disable updates
